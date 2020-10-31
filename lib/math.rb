@@ -1,8 +1,7 @@
 def addition(num1, num2)
   sum = num1 + num2
+  puts "#{sum}"
   addition(5, 4)
-  puts sum
-end
 end
 
 def subtraction(num1, num2)
