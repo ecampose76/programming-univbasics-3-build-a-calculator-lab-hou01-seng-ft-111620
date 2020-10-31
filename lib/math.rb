@@ -29,8 +29,8 @@ def modulo(num1, num2)
   puts remainder
 end
 
-def square_root.Math.sqrt(num)
+def square_root(num)
   root = num
   return root
-  print root
+  print Math.sqrt(root)
 end
