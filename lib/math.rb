@@ -18,10 +18,13 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-
+  multip = num1 * num2
+  return multip
+  puts multip
 end
 
 def modulo(num1, num2)
+  
 
 end
 
