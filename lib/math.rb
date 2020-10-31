@@ -6,10 +6,9 @@ end
 
 
 def subtraction(num1, num2)
-  difference = num2 - num1
+  difference = num1 - num2
   return difference
   puts difference
-
 end
 
 def division(num1, num2)
