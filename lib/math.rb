@@ -1,6 +1,7 @@
 def addition(num1, num2)
   sum = (num1 + num2)
-  puts sumaddition(5,4)
+  puts sum
+  addition(5,4)
 end
 
 
